@@ -1,0 +1,22 @@
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/ian/Documents/workspaceLuna/PSP6Simpson2/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2017. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/ian/Documents/workspaceLuna/PSP6Simpson2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PSP6Simpson2 1.0-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' '/Users/ian/Documents/workspaceLuna/PSP6Simpson2/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'PSP6Simpson2 1.0-SNAPSHOT API'
