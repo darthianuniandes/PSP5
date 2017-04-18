@@ -1,5 +1,5 @@
 201710_CSOF5101_01 - CONCEP. AVAN. DE INGENI. SOFTW
-Tarea No. 5 Personal Software Process for Engineers Program 5
+Tarea No. 6 Personal Software Process for Engineers Program 6
 Ian Sarasty Medina
 13/04/17
 Ejecute el programa desde el directorio raíz(aquí se encuentran la carpeta src y target) utilizando el comando: 
